@@ -31,8 +31,13 @@ The dataset used in this project contains information about 10,000 movies collec
 ## Running the Code
 
 1.  Clone this repository to your local machine.
-2.  Open the `Investigate_a_Dataset.ipynb` notebook in Google Colab or a Jupyter environment.
-3.  Execute the code cells sequentially to perform the analysis and generate visualizations.
+2.  Run this command:
+   
+    ```
+    pip install requirements.txt
+    ```
+3.  Open the `Investigate_a_Dataset.ipynb` notebook in Google Colab or a Jupyter environment.
+4.  Execute the code cells sequentially to perform the analysis and generate visualizations.
 
 
 ## Data Cleaning and Normalization
