@@ -23,8 +23,9 @@ The dataset used in this project contains information about 10,000 movies collec
 
 ## Repository Contents
 
-- `tmdb-movies.csv`: The raw dataset containing movie information.
+- `data/tmdb-movies.csv`: The raw dataset containing movie information.
 - `Investigate_a_Dataset.ipynb`: Jupyter Notebook containing the data analysis code and visualizations.
+- `report/Investigate_a_Dataset.html`: An html version of the original notebook. Included for convenience
 - `README.md`: This file, providing an overview of the project.
 
 
