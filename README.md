@@ -67,4 +67,4 @@ The project summarizes the key findings from the analysis, highlighting insights
 
 ## Full Report
 
-For a comprehensive overview of the analysis, including detailed findings and visualizations, please refer to the [full report](report.html) or run the code yourself.
+For a comprehensive overview of the analysis, including detailed findings and visualizations, please refer to the [full report](report/Investigate_a_Dataset_final.html) or run the code yourself.
