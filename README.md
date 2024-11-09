@@ -73,4 +73,4 @@ The project summarizes the key findings from the analysis, highlighting insights
 
 ## Full Report
 
-For a comprehensive overview of the analysis, including detailed findings and visualizations, please refer to the [full report](report/Investigate_a_Dataset_final.html) or run the code yourself.
+For a comprehensive overview of the analysis, including detailed findings and visualizations, please refer to the [full report](https://rawcdn.githack.com/yazan6546/Tmdb-Movie-Analysis-Using-Pandas/2f609fb3707a5586f1524717e42fe958d035ed67/report/Investigate_a_Dataset_final.html) or run the code yourself.
