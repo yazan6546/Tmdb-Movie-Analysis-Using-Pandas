@@ -35,7 +35,7 @@ The dataset used in this project contains information about 10,000 movies collec
 2.  Run this command:
    
     ```
-    pip install requirements.txt
+    pip install -r requirements.txt
     ```
 3.  Open the `Investigate_a_Dataset.ipynb` notebook in Google Colab or a Jupyter environment.
 4.  Execute the code cells sequentially to perform the analysis and generate visualizations.
